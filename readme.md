@@ -10,7 +10,7 @@ Installation
 
 To install via Git run the following Commands in Terminal:
 
-		cd ~/"Library/Application Support/TextMate/Bundles/"
+		cd ~/Library/Application\ Support/TextMate/Bundles/
 		git clone git://github.com/kylekeesling/ET-SSJS.git "ET-SSJS.tmbundle"
 		osascript -e 'tell app "TextMate" to reload bundles'		
 

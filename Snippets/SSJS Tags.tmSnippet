@@ -13,7 +13,7 @@
 	<key>name</key>
 	<string>SSJS Tags</string>
 	<key>scope</key>
-	<string>text.html source.js</string>
+	<string>text.html</string>
 	<key>tabTrigger</key>
 	<string>ssjs</string>
 	<key>uuid</key>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:esd} = Send.Definition.Init('${2:ExternalKey}');  
+var status = ${1:esd}.Send();
+$0</string>
+	<key>name</key>
+	<string>UI Send - Send</string>
+	<key>scope</key>
+	<string>text.html source.js</string>
+	<key>tabTrigger</key>
+	<string>uisend</string>
+	<key>uuid</key>
+	<string>B54116B7-113E-4432-9BBB-4FA68D49F3C0</string>
+</dict>
+</plist>

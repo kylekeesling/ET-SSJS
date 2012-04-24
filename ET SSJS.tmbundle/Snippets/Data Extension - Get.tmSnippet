@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:rows} = ${2:deVar}.Rows.Retrieve();
+$0</string>
+	<key>name</key>
+	<string>Data Extension - Get</string>
+	<key>scope</key>
+	<string>text.html source.js</string>
+	<key>tabTrigger</key>
+	<string>deget</string>
+	<key>uuid</key>
+	<string>D6B23465-D2F2-4EE2-94B5-10CE68A33A15</string>
+</dict>
+</plist>

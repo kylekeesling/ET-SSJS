@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>name</key>
+		<string>ET SSJS</string>
+		<key>ordering</key>
+		<array>
+			<string>F94B060F-B713-43F0-82E9-CF6CB0965CBE</string>
+			<string>AD556030-8241-4B8A-83B6-501637E28BA2</string>
+			<string>B11F2027-FC6C-4BB9-B533-E0E5EADBF92E</string>
+			<string>D6B23465-D2F2-4EE2-94B5-10CE68A33A15</string>
+			<string>0849EB27-9529-484D-92BD-2A6A3D329DD5</string>
+			<string>062290AE-4DD7-47DA-B243-322D73E722DF</string>
+			<string>B54116B7-113E-4432-9BBB-4FA68D49F3C0</string>
+			<string>9AD78021-6C88-401C-B89D-7ABAE64CCBE1</string>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>488EEE95-C385-4FE2-BCEA-A4BF5AB90B50</string>
+</dict>
+</plist>

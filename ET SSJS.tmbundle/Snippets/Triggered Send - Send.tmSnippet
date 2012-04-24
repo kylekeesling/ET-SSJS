@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>var ${1:status} = ${2:tsd}.(${3:"email@address.com"}${4:, {${5:SendTimeAttribute:"Value"}\}});
+
+${6:if(${1:status} != "OK")  
+{  
+   var message = ${2:tsd}.LastMessage;  
+\}}
+$0</string>
+	<key>name</key>
+	<string>Triggered Send - Send</string>
+	<key>scope</key>
+	<string>text.html source.js</string>
+	<key>tabTrigger</key>
+	<string>tsdsend</string>
+	<key>uuid</key>
+	<string>062290AE-4DD7-47DA-B243-322D73E722DF</string>
+</dict>
+</plist>

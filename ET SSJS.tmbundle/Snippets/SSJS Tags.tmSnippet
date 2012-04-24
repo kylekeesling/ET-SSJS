@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;script runat="server" language="javascript"&gt;
+				
+	Platform.Load("Core","1");
+	
+	$0
+	
+&lt;/script&gt;</string>
+	<key>name</key>
+	<string>SSJS Tags</string>
+	<key>scope</key>
+	<string>text.html source.js</string>
+	<key>tabTrigger</key>
+	<string>ssjs</string>
+	<key>uuid</key>
+	<string>F94B060F-B713-43F0-82E9-CF6CB0965CBE</string>
+</dict>
+</plist>

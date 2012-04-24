@@ -3,7 +3,7 @@ About
 This bundle contains some handy shortcuts to make writing ExactTarget SSJS *JUST* a little bit easier. This is by no means a complete collection of commands and I certainly welcome any contributions, additions, and suggestions.
 
 Thanks!
-Kyle Keesling, kkeesling@exacttarget.com, [http://twitter.com/kylekeesling](@kylekeesling)
+Kyle Keesling, kkeesling@exacttarget.com, [@kylekeesling](http://twitter.com/kylekeesling)
 
 Installation
 ============
